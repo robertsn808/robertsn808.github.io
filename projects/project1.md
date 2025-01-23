@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/powered\ log.png
 title: "Project 1"
-date: 2015
-published: false
+date: 2025
+published: true
 labels:
   - Javascript
 summary: "Example summary"
