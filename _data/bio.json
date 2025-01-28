@@ -27,11 +27,9 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "OSINT" },
+    { "name": "Linux" },
+    { "name": "Network Administration" }
   ],
   "skills": [
     {
@@ -55,12 +53,37 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "KW Systems",
+      "position": "Help Desk Manager",
+      "website": "https://kwsystemstech.com",
+      "startDate": "12/2020",
       "endDate": "Present",
-      summary": "Head of web development and responsible for maintaining the publication's website."
+      "summary": "I troubleshoot and repair hardware and software, providing both in-person and over-the-phone customer support. I also manage the installation and maintenance of server infrastructure, PBX and VOIP systems, as well as printers, copiers, and scanners. Additionally, I create and update incident reports to ensure smooth operations."
+    },
+    
+    {
+      "company": "DTL Studio",
+      "position": "Web Developer Intern",
+      "website": "https://dtlstudio.com",
+      "startDate": "06/2021",
+      "endDate": "12/2021",
+      "summary": "At DTL Hawaii, I maintained and updated client websites on WordPress, using the 'Local' app for staging and the 'Avada' theme for development."
+    },
+    {
+      "company": "Olelo Community Media",
+      "position": "Database Administrator Intern",
+      "website": "https://olelo.org",
+      "startDate": "06/2021",
+      "endDate": "12/2021",
+      "summary": "During my time at Olelo Community Media, I tested and modified programs and databases, enhancing performance and ensuring accuracy by maintaining relevant information."
+    },
+    {
+      "company": "Olelo Community Media",
+      "position": "Data Analyst Intern",
+      "website": "https://olelo.org",
+      "startDate": "06/2021",
+      "endDate": "12/2021",
+      "summary": "For my second internship with Olelo Community Media, I researched key contacts, managed databases using Apptivo CRM, and assisted with account tracking to improve the Olelo Lokahi Project."
     }
   ]
 }
