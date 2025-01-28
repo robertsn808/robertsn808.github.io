@@ -1,66 +1,69 @@
 {
-  "basics": {
-    "name": "Robert Swanson-Neitzel",
-    "label": "Student",
-    "picture": "https://avatars.githubusercontent.com/u/90076248?s=400&u=8320d9679e155ffcb4488081093c384d37c194d3&v=4",
+  "name": "Robert Swanson-Neitzel",
+  "contact": {
     "email": "robertsn@hawaii.edu",
     "phone": "808-452-9779",
-    "website": "https://github.com/robertsn808.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": {
-      "address": "",
-      "postalCode": "96706",
-      "city": "Ewa Beach",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "robertsn808",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "url": "http://linkedin.com/in/changeme"
-      }
+    "location": "Ewa Beach, Hawaii 96706, USA",
+    "linkedin": "linkedin.com/in/robertsn808",
+    "github": "github.com/robertsn808"
+  },
+  "skills": {
+    "languages": [
+      "Java",
+      "C#",
+      "Python"
+    ],
+    "tools": [
+      "WordPress",
+      "Git/GitHub",
+      "Apptivo CRM",
+      "Ubuntu",
+      "Windows"
+    ],
+    "hardware": [
+      "Troubleshooting",
+      "Repair",
+      "Installation"
     ]
   },
-  "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": ["C", "C++", "Java", "Javascript"]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": ["MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "2026-05-01",
-      "courses": []
-    }
+      "degree": "B.S. Computer Science & Information Technology",
+      "institution": "University of Hawaii at Manoa",
+      "location": "Honolulu, HI",
+      "years": "Aug 20XX – May 2023 (anticipated)"
+    },
+    /*{
+      "degree": "A.S. Computer Science & Information Technology",
+      "institution": "Leeward Community College",
+      "location": "Pearl City, HI",
+      "years": "20XX"
+    }*/
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      summary": "Head of web development and responsible for maintaining the publication's website."
+      "title": "Help Desk Technician Manager",
+      "company": "KW Systems",
+      "location": "Honolulu, HI",
+      "years": "Dec 2020 – Present"
+    },
+    {
+      "title": "Web Developer Intern",
+      "company": "DTL Hawaii",
+      "location": "Honolulu, HI",
+      "years": "Jun 2021 – Aug 2021"
+    },
+    {
+      "title": "Database Administrator Intern",
+      "company": "Olelo Community Media",
+      "location": "Honolulu, HI",
+      "years": "Apr 2021 – Aug 2021"
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "Olelo Community Media",
+      "location": "Honolulu, HI",
+      "years": "Apr 2021 – Aug 2021"
     }
   ]
 }
