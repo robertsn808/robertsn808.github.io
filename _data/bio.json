@@ -32,13 +32,7 @@
       "institution": "University of Hawaii at Manoa",
       "location": "Honolulu, HI",
       "years": "Aug 20XX – May 2023 (anticipated)"
-    },
-    /*{
-      "degree": "A.S. Computer Science & Information Technology",
-      "institution": "Leeward Community College",
-      "location": "Pearl City, HI",
-      "years": "20XX"
-    }*/
+    }
   ],
   "work": [
     {
@@ -50,20 +44,3 @@
     {
       "title": "Web Developer Intern",
       "company": "DTL Hawaii",
-      "location": "Honolulu, HI",
-      "years": "Jun 2021 – Aug 2021"
-    },
-    {
-      "title": "Database Administrator Intern",
-      "company": "Olelo Community Media",
-      "location": "Honolulu, HI",
-      "years": "Apr 2021 – Aug 2021"
-    },
-    {
-      "title": "Data Analyst Intern",
-      "company": "Olelo Community Media",
-      "location": "Honolulu, HI",
-      "years": "Apr 2021 – Aug 2021"
-    }
-  ]
-}
