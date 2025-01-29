@@ -11,7 +11,7 @@ labels:
   - Python
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/ivy/ai-framework.jpg">
+<img class="img-fluid w-100" src="../img/ivy/ai-framework.jpg" alt="AI Framework">
 
 ## The Complexity of Deep Learning Frameworks
 
