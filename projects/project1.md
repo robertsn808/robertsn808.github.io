@@ -13,7 +13,7 @@ summary: "My first dive into open-source, GitHub, and numpy.take—all thanks to
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/ivy/ivy-logo.png" class="img-thumbnail" >
+  <img width="200px" height="200px" src="../img/ivy/ivy-logo.png" class="img-thumbnail" >
 </div>
 
 ## The AI Framework Struggle (and How Ivy Fixes It)
