@@ -10,7 +10,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/be-specific/smart-vs-dumb.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/be-specific/smart-vs-dumb.jpg">
 
 ## The Importance of Asking Smart Questions in Software Engineering
 
