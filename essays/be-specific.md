@@ -1,16 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "Be Specific: The Art of Asking Smart Questions"
+title: "Be Specific..."
 date: 2025-01-30
-published: false
+published: true
 labels:
   - Questions
   - Answers
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/smart-vs-dumb.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/be-specific/smart-vs-dumb.jpg">
 
 ## The Importance of Asking Smart Questions in Software Engineering
 
