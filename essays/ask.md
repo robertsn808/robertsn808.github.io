@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Ask and You Shall Recieve"
 date: 2025-01-30
-published: false
+published: true
 labels:
   - Questions
   - Answers
