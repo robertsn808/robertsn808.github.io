@@ -56,7 +56,7 @@ Let’s compare that to a question that misses the mark:
 > I wrote some code, and it’s not working. I have no idea why. Can someone help me figure it out?
 
 ### Analysis:
-- **Lack of Specificity:** The problem is extremely vague—there’s no context or example to go on.
+- **Lack of Specificity:** The problem is extremely vague and there’s no context or example to go on.
 - **No Demonstrated Effort:** No code is provided, and there’s no indication that the asker has tried to troubleshoot the issue on their own.
 - **Disrespectful to Respondents:** The question is too broad and wastes responders' time by not offering enough information to work with.
 
@@ -69,7 +69,7 @@ The question likely gets downvoted due to its vagueness, leading to a series of 
 
 ## Insights Gained
 
-This exercise really brings home the importance of asking smart, well-researched questions. When you ask a good question, you’re not just asking for help—you’re also showing respect for the community, and you’re enabling people to help you more effectively. On the flip side, vague or lazy questions only create frustration and hinder the problem-solving process.
+This exercise really brings home the importance of asking smart, well-researched questions. When you ask a good question, you’re not just asking for help, you’re also showing respect for the community, and you’re enabling people to help you more effectively. On the flip side, vague or lazy questions only create frustration and hinder the problem-solving process.
 
 By following the principles Eric Raymond outlines, we can improve not just our technical skills but also our communication skills. The more thoughtful we are in asking questions, the better our chances are of fostering productive collaboration, whether we’re tackling problems alone or working with others.
 
