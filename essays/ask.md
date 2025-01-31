@@ -39,7 +39,7 @@ Let’s take a look at this great example from Stack Overflow:
 ### Analysis:
 - **Clarity and Specificity:** The question is clear and to the point. The asker presents their current solution and asks for a way to optimize it.
 - **Effort Demonstrated:** The user has already written functional code and is looking for an improvement rather than asking for someone else to do the work.
-- **Respect for Respondents:** The question is well-structured and focuses on a single, well-defined problem, making it easier for responders to provide precise answers.
+- **Respect for Respondents:** The question is well structured and focuses on a single, well defined problem, making it easier for responders to provide precise answers.
 
 **Link to StackOverflow:** [Simplify jQuery code](https://stackoverflow.com/questions/15117735/simplify-jquery-code/15118093#15118093)
 
@@ -64,7 +64,7 @@ Let’s compare that to a question that misses the mark:
 > I'm trying to understand why using a `float` instead of an `int` gives me different results, but I don’t know what’s wrong. Can someone explain?
 
 ### Analysis:
-- **Lack of Specificity:** The question is vague—it doesn’t include a clear code example or detailed explanation of what the user has tried.
+- **Lack of Specificity:** The question is vague it doesn’t include a clear code example or detailed explanation of what the user has tried.
 - **No Demonstrated Effort:** There is no indication that the asker has researched the problem or attempted to troubleshoot the issue.
 - **Disrespectful to Respondents:** The question is too brief and assumes others will fill in the gaps.
 
@@ -77,7 +77,7 @@ The question received minimal engagement, likely due to its lack of clarity. Som
 
 ## Insights Gained
 
-This exercise really brings home the importance of asking smart, well-researched questions. When you ask a good question, you’re not just asking for help—you’re also showing respect for the community, and you’re enabling people to help you more effectively. On the flip side, vague or lazy questions only create frustration and hinder the problem-solving process.
+This exercise really brings home the importance of asking smart, well-researched questions. When you ask a good question, you’re not just asking for help you’re also showing respect for the community, and you’re enabling people to help you more effectively. On the flip side, vague or lazy questions only create frustration and hinder the problem-solving process.
 
 By following the principles Eric Raymond outlines, we can improve not just our technical skills but also our communication skills. The more thoughtful we are in asking questions, the better our chances are of fostering productive collaboration, whether we’re tackling problems alone or working with others.
 
