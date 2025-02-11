@@ -10,7 +10,8 @@ labels:
   - Software Engineering
 ---
 
-<img src="../img/coding-standards/coding-standards.jpg"class="rounded mx-auto d-block" alt="Coding Standards">
+<img src="../img/coding-standards/coding-standards.jpg" class="rounded mx-auto d-block" alt="Coding Standards">
+
 
 ## **The Great Debate: Tabs vs. Spaces?**
 
