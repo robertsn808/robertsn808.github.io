@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Bootstrapping Your Sanity"
-date: 2025-01-30
+date: 2025-02-27
 published: true
 labels:
   - Web Development
