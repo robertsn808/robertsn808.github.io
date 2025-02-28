@@ -10,7 +10,7 @@ labels:
   - Bootstrap 5
 ---
 
-<img src="/img/bootstrap5.png" alt="Bootstrap 5 Full Width" style="width:100%; height:15vh; object-fit:cover; display:block;">
+<img src="/img/bootstrap5.png" alt="Bootstrap 5 Full Width" style="width:100%; height:40vh; object-fit:cover; display:block;">
 
 
 
