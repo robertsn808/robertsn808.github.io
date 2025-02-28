@@ -91,16 +91,6 @@ But if you enjoy raw CSS and control over every pixel, stick with handcrafted st
 
 ---
 
-### Visual Comparison: UI Framework vs. Raw HTML/CSS
-
-**Bootstrap 5 Version:**
-![Bootstrap 5 Styled Page](../img/bootstrap-example.jpg)
-
-**Raw HTML/CSS Version:**
-![Handcrafted HTML/CSS Page](../img/raw-css-example.jpg)
-
----
-
 ## Conclusion
 
 UI frameworks aren’t magic bullets, but they save time and frustration, eventually. Whether you love them or hate them, they’ve earned their place in web development. So, if Bootstrap 5 is giving you nightmares, just remember, It’s still better than writing `float: left;` and praying for the best.
