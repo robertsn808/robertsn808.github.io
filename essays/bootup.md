@@ -12,6 +12,9 @@ labels:
 
 ![Bootstrap vs CSS](../img/bootstrap5.png)
 
+<img src="/img/bootstrap5.png" alt="Bootstrap 5 Full Width" style="width:100%; height:auto; display:block;">
+
+
 ## UI Frameworks: A Blessing or a Bootstrap Trap?
 
 UI frameworks promise a shortcut to professional looking web pages, but let's be real—they sometimes feel like deciphering an alien language. You trade writing endless CSS for deciphering a new syntax, and before you know it, you're knee-deep in Bootstrap 5 class names wondering if you made a mistake.
