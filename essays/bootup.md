@@ -10,9 +10,8 @@ labels:
   - Bootstrap 5
 ---
 
-![Bootstrap vs CSS]
+<img src="/img/bootstrap5.png" alt="Bootstrap 5 Full Width" style="width:100%; height:15vh; object-fit:cover; display:block;">
 
-<img src="/img/bootstrap5.png" alt="Bootstrap 5 Full Width" style="width:100%; height:auto; display:block;">
 
 
 ## UI Frameworks: A Blessing or a Bootstrap Trap?
