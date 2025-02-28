@@ -10,7 +10,7 @@ labels:
   - Bootstrap 5
 ---
 
-![Bootstrap vs CSS](../img/bootstrap-vs-css.jpg)
+![Bootstrap vs CSS](../img/bootstrap5.png)
 
 ## UI Frameworks: A Blessing or a Bootstrap Trap?
 
